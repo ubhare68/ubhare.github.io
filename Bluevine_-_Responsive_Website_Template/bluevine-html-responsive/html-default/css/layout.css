@@ -1,0 +1,149 @@
+/*
+* Skeleton V1.2
+* Copyright 2011, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 6/20/2012
+*/
+
+/* Table of Content
+==================================================
+	#Site Styles
+	#Page Styles
+	#Media Queries
+	#Font-Face */
+
+/* #Site Styles
+================================================== */
+
+/* #Page Styles
+================================================== */
+
+/* #Media Queries
+================================================== */
+
+	/* Smaller than standard 960 (devices and browsers) */
+	@media only screen and (max-width: 959px) {
+		
+		}
+
+	/* Tablet Portrait size to standard 960 (devices and browsers) */
+	@media only screen and (min-width: 768px) and (max-width: 959px) {
+		#coment .podpis { float: none; width: 100%; }
+		#coment .podpis a { display: inline !important; }
+		#coment2 .podpis { float: none; width: 100%; }
+		#coment2 .podpis a { display: inline !important; }
+		#coment3 .podpis { float: none; width: 100%; }
+		#coment3 .podpis a { display: inline !important; }
+		#contactform_main li.buttons input { margin-left: 12%; }
+		.maps_view { height: 250px; }
+		#slider-wrapper object { height: 315px; }
+		.menu ul li ul li ul { left: -140px !important; }
+		.now_page_resize { padding-bottom: 74px; }
+		} 
+
+	/* All Mobile Sizes (devices and browser) */
+	@media only screen and (max-width: 767px) {
+		#panel_setting_side { position: absolute !important; top: 30% !important; z-index: 9999999 !important; }
+		#coment .podpis { float: none; width: 100%; }
+		#coment .podpis a { display: inline !important; }
+		#coment2 .podpis { float: none; width: 100%; }
+		#coment2 .podpis a { font-size: 9px; display: inline !important; }
+		#coment3 .podpis { float: none; width: 100%; }
+		#coment3 .podpis a { display: inline !important; }
+		#contactform_main li.buttons input { margin-left: 15%; }
+		#coment2 { margin-left: 0px; }
+		#coment3 { margin-left: 0px; }
+		.maps_view { height: 200px; }
+		.one-third.column.gap21 { display: block; }
+		.one-third.column.gap20 { display: none; }
+		.camera_caption > div { padding: 5px !important; font-size: 8px !important; line-height: 12px; }
+		#slider-wrapper object { height: 240px; }
+		.footer p { text-align: left; }
+		.img_hover_box.pic a:hover img.r_plus_overlay { display: none; }
+		.img_hover_box.pic a:hover img.r_plus { display: none; }
+		div.ppt { display: none !important; }
+		.pic.fl.gap { float: none; }
+		.pic.fr.gap { margin-left: 0px; float: none; }
+		.logo { padding: 18px 0 17px; margin: 0 auto; float: none; text-align: center; }
+		.logo div { float: none; }
+		.menu .menusm { display: none; }
+		.menu .tinynav { padding: 3px 0 3px; margin: 0 auto 15px auto; width: 80%; display: block;  }
+		.menu { float: none !important; }  
+		.now_page { margin: 0 10px; }
+		.separator { margin: 0px; }
+		.separator_clear { margin: 0px; }
+		.cols4 .col4 { margin-right: 20px; } 
+		.prefooter .fcol.last { margin-top: 15px; }
+		.footer_resize { padding-left: 10px; }
+		.now_page h1 { font-size: 15px !important; line-height: 18px; }
+		.now_page_resize { padding-bottom: 75px; }
+		.centercol { margin-right: 20px; }
+		.sidebar { margin-right: 20px; }
+		.cols3 .col3 { margin: 0 20px 15px 0; }
+		.cols2.gap .col2 { margin-right: 20px; }
+		} 
+
+	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+	@media only screen and (min-width: 480px) and (max-width: 767px) {
+		.pricing_six .pricing_column, .pricing_six .pricing_column_first { width: 15.4% !important; }
+		.dc_pricingtable06 ul li h3 { font-size: 15px !important; }
+		.dc_pricingtable05 ul li h3 { font-size: 15px !important; }
+		.dc_pricingtable03 li h2 { font-size: 15px !important; }
+		.dc_pricingtable03 li h2.caption { font-size: 11px !important; }
+		.col2.big { width: 48.8%; }
+		} 
+		
+		/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+		@media only screen and (max-width: 479px) {
+		.jThumbnailScroller .jTscroller a { margin-right: 20px !important; }
+		#coment img { margin-right: 7px; }
+		#coment2 img { margin-right: 7px; }
+		#coment3 img { margin-right: 7px; }
+		#contactform_main li.buttons input { margin-left: 21.7%; } 
+		.post_detail { font-size: 9px; line-height: 12px; }
+		.post_detail a { font-size: 8px; line-height: 12px; }
+		.content_box_padding p { line-height: 15px; }
+		#coment { line-height: 16px; }
+		#coment2 { line-height: 16px; }
+		#coment3 { line-height: 16px; }
+		.maps_view { height: 180px; }
+		#slider-wrapper object { height: 160px; }
+		.footer p { font-size: 9px; line-height: 12px; }
+		.menu .tinynav { padding: 2px 0 3px 0; width: 100%; }	
+		.col2.big { width: 48.2%; }
+		.col2.big h3 a { font-size: 10px !important; line-height: 12px; }
+		.col2.big p { font-size: 10px; line-height: 14px; }
+		.post_detail a:hover { font-size: 8px; }
+		#coment .podpis a { font-size: 8px; display: inline !important; }
+		#coment2 .podpis a { font-size: 8px; display: inline !important; }
+		#coment3 .podpis a { font-size: 8px; display: inline !important; }
+		.content_box_padding h3 a { font-size: 12px !important; line-height: 15px; }
+		.now_page h1 { font-size: 15px !important; line-height: 22px; }
+		.now_page h1 span { font-size: 11px; line-height: 15px; }
+		.now_page_resize { padding-bottom: 48px; }
+		
+		}
+		
+		
+	
+
+
+/* #Font-Face
+================================================== */
+/* 	This is the proper syntax for an @font-face file
+		Just create a "fonts" folder at the root,
+		copy your FontName into code below and remove
+		comment brackets */
+
+/*	@font-face {
+	    font-family: 'FontName';
+	    src: url('../fonts/FontName.eot');
+	    src: url('../fonts/FontName.eot?iefix') format('eot'),
+	         url('../fonts/FontName.woff') format('woff'),
+	         url('../fonts/FontName.ttf') format('truetype'),
+	         url('../fonts/FontName.svg#webfontZam02nTh') format('svg');
+	    font-weight: normal;
+	    font-style: normal; }
+*/
