@@ -164,6 +164,13 @@ document.writeln('    </ul>');
 document.writeln('  <li><a href="#"_blank" class="menu_navigation"><span>Mens Health>></span></a>');
 document.writeln('    <ul>');
 document.writeln('      <li><a href="http://www.dcodes.net/2/docs/web_icons.html" target="_blank" class="menu_navigation"><span>Web Icons</span></a></li>');
+document.writeln('    <ul>');
+document.writeln('      <li><a href="Periactin.html" target="_blank" class="menu_navigation" > <span>Periactin</span></a></li>');
+document.writeln('      <li><a href="Zyrtec 10 mg.html" target="_blank" class="menu_navigation"><span>Zyrtec 10 mg</span></a></li>');
+document.writeln('      <li><a href="Quinine 300 mg.html" target="_blank" class="menu_navigation"><span>Quinine 300 mg</span></a></li>');
+
+document.writeln('    </ul>');
+
 document.writeln('      <li><a href="http://www.dcodes.net/2/docs/web_icons2.html" target="_blank" class="menu_navigation"><span>Web Icons II</span></a></li>');
 
 document.writeln('    </ul>');
