@@ -2,7 +2,7 @@
 /* CSS Document */
 
 /* DESIGN TOPNAV (mainmenu) */
-.menu { margin:0; padding:0; text-transform:none; font-size:14px; font-weight:normal;float:right;}
+.menu { margin-right:100px; padding:0; text-transform:none; font-size:14px; font-weight:normal;float:right;}
 /* level 0 */
 .menu ul.menusm { padding:0; margin:0 auto;  }
 .menu ul li.ms_top { padding:0px 2px 0px 0;float:left;}

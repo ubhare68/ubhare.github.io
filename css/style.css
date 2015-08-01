@@ -40,34 +40,11 @@ hr { border:1px solid #c8c8c8; margin:30px 0; }
 .main { margin:0 auto; padding:0; width:100%; position:relative; }
 #page { background: none repeat scroll 0 0 rgba(0, 0, 0, 0.4); overflow: hidden; position: relative; width: 100%; }
 a { color:#87b01a; font-weight:normal; text-decoration:none; }
-p {
-	margin: 0;
-	padding: 0 0 10px;
-}
+p { margin:0; padding:0 0 10px; }
 
-h1 {
-	margin: 0;
-	padding: 0;
-	font-weight: bolder;
-	font-size: 24px;
-	line-height: 1em;
-	color: #FFF;
-	text-transform: none;
-	text-align: center;
-}
-h1 a { color:#C33; text-decoration:none; }
-h1 span {
-	color: #FFFFFF;
-	font-size: 14px;
-	font-style: normal;
-	font-weight: normal;
-	line-height: 1em;
-	text-transform: none;
-	display: block;
-	margin-top: 10px;
-	padding: 0;
-	background: none;
-}
+h1 { margin:0; padding:0; font-weight:bold; font-size:24px;  line-height:1em; color:#fff; text-transform:none; text-align:center;  }
+h1 a { color:#fff; text-decoration:none; }
+h1 span { color:#fff; font-size:14px; font-style:normal; font-weight:normal; line-height:1em;  text-transform:none;  display:block; margin-top:10px; padding:0; background:none; }
 h1 a:hover { text-decoration:none; }
 /*post_titles*/
 h2 { width:auto; margin:0px 0 0px 0; padding:0 0 0 0; font-size:14px; line-height:1em; font-weight:bold; color:#717171; text-align:left; text-transform:none; background:none;}
@@ -137,7 +114,7 @@ h3.h3_act_href a.ico_4:hover{background:url(../images/ico_a-04.png) no-repeat le
 .now_page { margin:0px auto 0px; padding:40px 0 00px; position: relative; z-index: 1;}
 .now_page_resize { margin:0 auto; padding:0 0 80px 0; text-align:left;  }
 .index_page .now_page_resize {}
-.index_page .now_page { background:#066; }
+.index_page .now_page { background:none; }
 
 /*slider*/
 #now_slider { margin:0 auto 0px; position: relative; z-index: 5; padding:30px 0 0px; /*padding:6px; background:#343434; border:1px solid #525252;*/}
@@ -518,48 +495,5 @@ h1.gap1 {
 #catalogue .product { float:none !important; width: auto !important;}
 #webstore { min-width: auto !important;}
 	}
-.m1 {
-	position: absolute;
-	left: 58px;
-	top: 50px;
-	width: 409px;
-	height: 410px;
-	text-align:justify;
-	text-justify:inter-word;
-}
-.m2 {
-	position: absolute;
-	left: 469px;
-	top: 49px;
-	width: 477px;
-	height: 495px;
-	text-align: justify;
-	text-justify: inter-word;
-}
-.m2 {
-	position: absolute;
-}
-.enqu {
-	position: absolute;
-	left: 451px;
-	top: 549px;
-	width: 142px;
-	height: 88px;
-}
-.search {
-	position: absolute;
-	height: 15px;
-	width: 100px;
-	left: 132px;
-	top: -23px;
-}
-.search {
-	position: absolute;
-	height: 15px;
-	width: 150px;
-}
-.search {
-	position: absolute;
-	height: 98px;
-	width: 574px;
-}
+
+
