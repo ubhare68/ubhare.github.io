@@ -174,7 +174,7 @@ document.writeln('      <li><a href="Lisinopril 5 mg.html" class="menu_navigatio
 
 document.writeln('    </ul>');
 
-document.writeln('      <li><a href="propranolol 40 mg.html" class="menu_navigation"><span>Propranolol 40 mg</span></a></li>');
+document.writeln('      <li><a href="Propranolol 40 mg.html" class="menu_navigation"><span>Propranolol 40 mg</span></a></li>');
 
 document.writeln('  <li><a href="#" class="menu_navigation"><span>Tenormin->></span></a>');
 document.writeln('    <ul>');
