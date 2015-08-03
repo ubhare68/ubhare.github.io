@@ -255,8 +255,8 @@ document.writeln('    </ul>');
 
 document.writeln('  <li><a href="#" class="menu_navigation"><span>Chronic Alcoholism>></span></a>');
 document.writeln('    <ul>');
-document.writeln('      <li><a href="Antabuse 250 mg.html" class="menu_navigation"><span>Antabuse 250 mg</span></a></li>');
-document.writeln('      <li><a href="Antabuse 500 mg.html" class="menu_navigation"><span>Antabuse 500 mg</span></a></li>');
+document.writeln('      <li><a href="antabuse 250 mg.html" class="menu_navigation"><span>Antabuse 250 mg</span></a></li>');
+document.writeln('      <li><a href="antabuse 500 mg.html" class="menu_navigation"><span>Antabuse 500 mg</span></a></li>');
 
 document.writeln('    </ul>');
 
