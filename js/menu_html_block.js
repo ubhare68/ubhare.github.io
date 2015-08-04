@@ -103,11 +103,11 @@ document.writeln('    </ul>');
 
 document.writeln('      <li><a href="Terramycin  250 mg.html" class="menu_navigation"><span>Terramycin  250 mg</span></a></li>');
 
-document.writeln('  <li><a href="#" class="menu_navigation"><span>Tetracyclin->></span></a>');
+document.writeln('  <li><a href="#" class="menu_navigation"><span>Tetracycline->></span></a>');
 document.writeln('    <ul>');
 
-document.writeln('      <li><a href="Tetracyclin  250 mg.html" class="menu_navigation"><span>Tetracyclin  250 mg</span></a></li>');
-document.writeln('      <li><a href="Tetracyclin  500 mg.html" class="menu_navigation"><span>Tetracyclin  500 mg</span></a></li>');
+document.writeln('      <li><a href="Tetracyclin  250 mg.html" class="menu_navigation"><span>Tetracycline  250 mg</span></a></li>');
+document.writeln('      <li><a href="Tetracyclin  500 mg.html" class="menu_navigation"><span>Tetracycline  500 mg</span></a></li>');
 
 document.writeln('    </ul>');
 
