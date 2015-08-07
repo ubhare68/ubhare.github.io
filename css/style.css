@@ -651,9 +651,7 @@ h1.gap1 {
 	width: 142px;
 	height: 88px;
 }
-.enqud{
-	top:250px !important;
-	}
+
 
 @media only screen and (max-width: 767px) {
 #webstore-navigation li { float:none !important; margin: 5px 0 0 0 !important;}
