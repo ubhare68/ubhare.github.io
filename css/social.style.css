@@ -13,12 +13,12 @@ body {
 /* Wrapper */
 .icon-button {
 	background-color: white;
-	border-radius: 1.6rem;
+	border-radius: 2.6rem;
 	cursor: pointer;
 	display: inline-block;
-	font-size: 1.0rem;
-	height: 1.6rem;
-	line-height: 1.6rem;
+	font-size: 2.0rem;
+	height: 2.6rem;
+	line-height: 2.6rem;
 	margin: 0 5px;
 	position: relative;
 	text-align: center;
@@ -26,7 +26,7 @@ body {
 	   -moz-user-select: none;
 	    -ms-user-select: none;
 	        user-select: none;
-	width: 1.6rem;
+	width: 2.6rem;
 }
 
 /* Circle */
@@ -34,10 +34,10 @@ body {
 	border-radius: 0;
 	display: block;
 	height: 0;
-	left: 50%;
+	left: 32%;
 	margin: 0;
 	position: absolute;
-	top: 50%;
+	top: 32%;
 	-webkit-transition: all 0.3s;
 	   -moz-transition: all 0.3s;
 	     -o-transition: all 0.3s;
@@ -45,9 +45,9 @@ body {
 	width: 0;
 }
 .icon-button:hover span {
-	width: 1.6rem;
-	height: 1.6rem;
-	border-radius: 1.6rem;
+	width: 2.6rem;
+	height: 2.6rem;
+	border-radius: 2.6rem;
 	margin: -0.8rem;
 }
 .twitter span {
@@ -64,16 +64,16 @@ body {
 .icon-button i {
 	background: none;
 	color: white;
-	height: 1.6rem;
+	height: 2.6rem;
 	left: 0;
-	line-height: 1.6rem;
+	line-height: 2.6rem;
 	position: absolute;
 	top: 0;
 	-webkit-transition: all 0.3s;
 	   -moz-transition: all 0.3s;
 	     -o-transition: all 0.3s;
 	        transition: all 0.3s;
-	width: 1.6rem;
+	width: 2.6rem;
 	z-index: 10;
 }
 .icon-button .icon-twitter {
