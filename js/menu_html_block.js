@@ -180,7 +180,7 @@ document.writeln('      <li><a href="Zestril 10 mg.html" class="menu_navigation"
 
 document.writeln('    </ul>');
 
-document.writeln('      <li><a href="Propranolol 40 mg.html" class="menu_navigation"><span>Inderal 40 mg</span></a></li>');
+document.writeln('      <li><a href="propranolol 40 mg.html" class="menu_navigation"><span>Inderal 40 mg</span></a></li>');
 
 document.writeln('  <li><a href="#" class="menu_navigation"><span>Tenormin->></span></a>');
 document.writeln('    <ul>');
