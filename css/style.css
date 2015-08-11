@@ -162,7 +162,19 @@ h1 span {
 }
 h1 a:hover { text-decoration:none; }
 /*post_titles*/
-h2 { width:auto; margin:0px 0 0px 0; padding:0 0 0 0; font-size:14px; line-height:1em; font-weight:bold; color:#717171; text-align:left; text-transform:none; background:none;}
+h2 { 
+		width:auto; 
+		margin:0px 0 0px 0; 
+		padding:0 0 0 0; 
+		font-size:14px; 
+		line-height:1em; 
+		font-weight:bold; 
+		color:#717171; 
+		text-align:justify; 
+		text-transform:none;
+		text-justify:inter-word;
+		background:none;
+		}
 h2 a, h2 span,h2 a span { color:#636363; background:none; }
 
 .h2_background {position:relative;}
