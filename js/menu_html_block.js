@@ -15,45 +15,44 @@ document.writeln('  <li><a href="#" class="menu_navigation"><span>Categories >><
 document.writeln('    <ul>');
 document.writeln('  <li><a href="#"  class="menu_navigation"><span>Allergy >></span></a>');
 document.writeln('    <ul>');
-document.writeln('      <li><a href="Periactin.html"  class="menu_navigation" > <span>Periactin</span></a></li>');
 document.writeln('      <li><a href="Zyrtec 10 mg.html"  class="menu_navigation"><span>Zyrtec 10 mg</span></a></li>');
 
 document.writeln('    </ul>');
 document.writeln('  </li>');
 
-document.writeln('  <li><a href="#"  class="menu_navigation"><span>Anabolic Steroids >></span></a>');
+
+document.writeln('  <li><a href="#"  class="menu_navigation"><span>Anti-Acne >></span></a>');
 document.writeln('    <ul>');
 
-document.writeln('      <li><a href="Prednisolone  10 mg.html" class="menu_navigation"><span>Prednisolone 10 mg</span></a></li>');
-document.writeln('      <li><a href="Prednisone 10 mg.html" class="menu_navigation"><span>Prednisone 10 mg</span></a></li>');
+document.writeln('      <li><a href="Accutane 5 mg.html" class="menu_navigation"><span>Accutane 5 mg</span></a></li>');
+document.writeln('      <li><a href="Accutane 10 mg.html" class="menu_navigation"><span>Accutane 10 mg</span></a></li>');
+document.writeln('      <li><a href="Accutane 20 mg.html" class="menu_navigation"><span>Accutane 20 mg</span></a></li>');
+document.writeln('      <li><a href="Accutane 30 mg.html" class="menu_navigation"><span>Accutane 30 mg</span></a></li>');
 
 document.writeln('    </ul>');
-
 document.writeln('  </li>');
 
-document.writeln('  <li><a href="#" class="menu_navigation"><span>Anti-Bacterials >></span></a>');
+
+document.writeln('  <li><a href="#"  class="menu_navigation"><span>Anti-Bacterial >></span></a>');
 document.writeln('    <ul>');
-document.writeln('  <li><a href="#" class="menu_navigation"><span>Stromectol->></span></a>');
+document.writeln('  <li><a href="#" class="menu_navigation"><span>Ampicillin->></span></a>');
 document.writeln('    <ul>');
 
+document.writeln('      <li><a href="Ampicil 250 mg.html" class="menu_navigation"><span>Ampicillin 250 mg</span></a></li>');
+document.writeln('      <li><a href="Ampicil 500 mg.html" class="menu_navigation"><span>Ampicillin 500 mg</span></a></li>');
+document.writeln('    </ul>');
 
-document.writeln('      <li><a href="Stromectol 3 mg.html" class="menu_navigation"><span>Stromectol 3 mg</span></a></li>');
-document.writeln('      <li><a href="Stromectol 6mg.html" class="menu_navigation"><span>Stromectol 6 mg</span></a></li>');
-document.writeln('      <li><a href="Stromectol  12 mg.html" class="menu_navigation"><span>Stromectol  12 mg</span></a></li>');
 document.writeln('    </ul>');
-document.writeln('      <li><a href="vermox 100 mg.html" class="menu_navigation"><span>vermox 100 mg</span></a></li>');
-document.writeln('    </ul>');
+document.writeln('  </li>');
+
+
+
+
+
+
 
 document.writeln('  <li><a href="#" class="menu_navigation"><span>Anti-Biotics >></span></a>');
 document.writeln('    <ul>');
-
-document.writeln('  <li><a href="#" class="menu_navigation"><span>Ampicil->></span></a>');
-document.writeln('    <ul>');
-
-document.writeln('      <li><a href="Ampicil 250 mg.html" class="menu_navigation"><span>Ampicil 250 mg</span></a></li>');
-document.writeln('      <li><a href="Ampicil 500 mg.html" class="menu_navigation"><span>Ampicil 500 mg</span></a></li>');
-document.writeln('    </ul>');
-
 
 document.writeln('      <li><a href="Bactrim 480 mg.html" class="menu_navigation"><span>Bactrim 480 mg</span></a></li>');
 
@@ -265,11 +264,11 @@ document.writeln('    </ul>');
 document.writeln('  <li><a href="#" class="menu_navigation"><span>Anti-Psychotics >></span></a>');
 document.writeln('    <ul>');
 
-document.writeln('  <li><a href="#" class="menu_navigation"><span>Ablify->></span></a>');
+document.writeln('  <li><a href="#" class="menu_navigation"><span>Abilify->></span></a>');
 document.writeln('    <ul>');
 
-document.writeln('      <li><a href="Ablify 10 mg.html" class="menu_navigation"><span>Ablify 10 mg</span></a></li>');
-document.writeln('      <li><a href="Ablify 15 mg.html" class="menu_navigation"><span>Ablify 15 mg</span></a></li>');
+document.writeln('      <li><a href="Ablify 10 mg.html" class="menu_navigation"><span>Abilify 10 mg</span></a></li>');
+document.writeln('      <li><a href="Ablify 15 mg.html" class="menu_navigation"><span>Abilify 15 mg</span></a></li>');
 
 document.writeln('    </ul>');
 
@@ -403,7 +402,7 @@ document.writeln('    </ul>');
 document.writeln('  <li><a href="#" class="menu_navigation"><span>Gastroenterology >></span></a>');
 document.writeln('    <ul>');
 
-document.writeln('      <li><a href="Lancid 30 mg.html" class="menu_navigation"><span>Lancid 30 mg</span></a></li>');
+document.writeln('      <li><a href="Lancid 30 mg.html" class="menu_navigation"><span>Prevacid 30 mg</span></a></li>');
 
 document.writeln('      <li><a href="Motilium 10 mg.html" class="menu_navigation"><span>Motilium 10 mg</span></a></li>');
 
