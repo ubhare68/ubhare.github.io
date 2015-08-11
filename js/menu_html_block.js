@@ -238,7 +238,7 @@ document.writeln('    </ul>');
 document.writeln('  </li>');
 
 
-document.writeln('  <li><a href="#" class="menu_navigation"><span>Anti-Malerials >></span></a>');
+document.writeln('  <li><a href="#" class="menu_navigation"><span>Anti-Malarials></span></a>');
 
 document.writeln('    <ul>');
 document.writeln('      <li><a href="Quinine 300 mg.html" class="menu_navigation"><span>Quinine 300 mg</span></a></li>');
