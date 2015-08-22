@@ -35,14 +35,12 @@ document.writeln('  </li>');
 
 document.writeln('  <li><a href="#"  class="menu_navigation"><span>Anti-Bacterial >></span></a>');
 document.writeln('    <ul>');
-document.writeln('  <li><a href="#" class="menu_navigation"><span>Ampicillin->></span></a>');
-document.writeln('    <ul>');
+
 
 document.writeln('      <li><a href="Ampicil 250 mg.html" class="menu_navigation"><span>Ampicillin 250 mg</span></a></li>');
 document.writeln('      <li><a href="Ampicil 500 mg.html" class="menu_navigation"><span>Ampicillin 500 mg</span></a></li>');
 document.writeln('    </ul>');
 
-document.writeln('    </ul>');
 document.writeln('  </li>');
 
 
@@ -238,7 +236,7 @@ document.writeln('    </ul>');
 document.writeln('  </li>');
 
 
-document.writeln('  <li><a href="#" class="menu_navigation"><span>Anti-Malarials></span></a>');
+document.writeln('  <li><a href="#" class="menu_navigation"><span>Anti-Malerials >></span></a>');
 
 document.writeln('    <ul>');
 document.writeln('      <li><a href="Quinine 300 mg.html" class="menu_navigation"><span>Quinine 300 mg</span></a></li>');
@@ -292,7 +290,7 @@ document.writeln('    </ul>');
 
 document.writeln('  <li><a href="#" class "menu_navigation"><span>Anti-Smoking >></span></a>');
 document.writeln('    <ul>');
-document.writeln('      <li><a href="Unidep-SR.html" class="menu_navigation"><span>Unidep-SR 150 mg</span></a></li>');
+document.writeln('      <li><a href="Unidep-SR.html" class="menu_navigation"><span>Wellbutrin SR 150 mg</span></a></li>');
 document.writeln('      <li><a href="WELLBUTRIN  SR 150.html" class="menu_navigation"><span>Wellbutrin  SR 150 mg</span></a></li>');
 document.writeln('      <li><a href="WELLBUTRIN  SR 300 mg.html" class="menu_navigation"><span>Wellbutrin  SR 300 mg</span></a></li>');
 
@@ -475,8 +473,8 @@ document.writeln('      <li><a href="Cialis 40 mg.html" class="menu_navigation">
 document.writeln('      <li><a href="Cialis 60 mg.html" class="menu_navigation"><span>Cialis 60 mg</span></a></li>');
 document.writeln('      <li><a href="Cialis 80 mg.html" class="menu_navigation"><span>Cialis 80 mg</span></a></li>');
 document.writeln('      <li><a href="Cialis Professional 20 mg.html" class="menu_navigation"><span>Cialis Professional 20 mg</span></a></li>');
-document.writeln('      <li><a href="Cialis soft 20 mg ( Mix Fruit ).html" class="menu_navigation"><span>Cialis soft 20 mg ( Mix Fruit )</span></a></li>');
-document.writeln('      <li><a href="Cialis soft 20 mg ( Strawberry ).html" class="menu_navigation"><span>Cialis soft 20 mg ( Strawberry )</span></a></li>');
+document.writeln('      <li><a href="Cialis soft 20 mg ( Mix Fruit ).html" class="menu_navigation"><span>Cialis Soft 20 mg ( Mix Fruit )</span></a></li>');
+document.writeln('      <li><a href="Cialis soft 20 mg ( Strawberry ).html" class="menu_navigation"><span>Cialis Soft 20 mg ( Strawberry )</span></a></li>');
 document.writeln('      <li><a href="Cialis Super Active 20 mg.html" class="menu_navigation"><span>Cialis Super Active 20 mg</span></a></li>');
 document.writeln('      <li><a href="Cialis ST 20 mg.html" class="menu_navigation"><span>Cialis ST 20 mg</span></a></li>');
 
